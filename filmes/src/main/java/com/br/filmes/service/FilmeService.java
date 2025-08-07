@@ -1,10 +1,9 @@
 package com.br.filmes.service;
 
-import com.br.filmes.DTO.FilmeDTO;
+import com.br.filmes.dto.FilmeDTO;
 import com.br.filmes.exception.FIlmeNotFoundException;
 import com.br.filmes.model.Filme;
 import com.br.filmes.repository.FilmeRepository;
-import jakarta.persistence.Id;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;

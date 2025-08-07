@@ -1,4 +1,4 @@
-package com.br.filmes.DTO;
+package com.br.filmes.dto;
 
 import jakarta.validation.constraints.*;
 import lombok.AllArgsConstructor;
